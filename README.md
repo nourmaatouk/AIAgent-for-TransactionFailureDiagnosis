@@ -108,5 +108,4 @@ This structure ensures that the explanation is grounded in **real code logic**, 
 
 ---
 
-## 🏆 Hackathon Challenge 
-This project was built for the **"Explain DeFi: AI Agent for Transaction Failure Diagnosis"** challenge. It fulfills the mandate of creating an AI-powered agent that transforms cryptic blockchain errors into human-readable guidance.
+
